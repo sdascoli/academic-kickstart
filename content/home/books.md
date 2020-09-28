@@ -1,5 +1,6 @@
 +++
 title = "Books"
+weight = 110
 +++
 
 ### Comprendre la révolution de l'Intelligence Artificielle

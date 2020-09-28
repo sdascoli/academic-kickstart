@@ -9,9 +9,9 @@ authors:
   - admin
 bio: My research interests focus on the theory of deep learning, with
   connections to statistical physics.
-interests:
-  - Deep learning
-  - Statistical Physics
+# interests:
+#   - Deep learning
+#   - Statistical Physics
 social:
   - icon: envelope
     icon_pack: fas
@@ -41,6 +41,6 @@ user_groups:
   - Researchers
   - Visitors
 ---
-Hi ! I am a Ph.D. student working jointly between ENS Paris and FAIR Paris. My research interests focus of the theoretical aspects of deep learning : understanding the fundamentals of how neural networks learn from data.
+Hi ! I am a Ph.D. student working jointly between ENS Paris and FAIR Paris. My research seeks to understand the fundamentals of how neural networks learn from data. Before that, I studied Theoretical Physics and worked on black hole mergers.
 
-I am also passionate about outreach, and write popular science books. In my spare time I play the clarinet, feel free to check out my videos !
+I am passionate about outreach, and write popular science books. In my spare time I also play the clarinet, feel free to check out my videos !
