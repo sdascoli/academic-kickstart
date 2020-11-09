@@ -41,6 +41,8 @@ user_groups:
   - Researchers
   - Visitors
 ---
-Hi ! I am a Ph.D. student working jointly between ENS Paris and FAIR Paris. My research seeks to understand the fundamentals of how neural networks learn from data. Before that, I studied Theoretical Physics and worked on black hole mergers.
+Hi! I'm a Ph.D. student working on deep learning, jointly supervised by [Giulio Biroli](https://prairie-institute.fr/chairs/biroli-giulio/) (ENS Paris) and [Levent Sagun](https://scholar.google.com/citations?user=-iPZaBcAAAAJ&hl=en) (FAIR Paris). 
 
-I am passionate about outreach, and write popular science books. In my spare time I also play the clarinet, feel free to check out my videos !
+My research seeks to understand the fundamentals of how neural networks learn from data. Before that, I studied Theoretical Physics and worked with NASA on [black hole mergers](https://www.youtube.com/watch?v=i2u-7LMhwvE&t=20s).
+
+I love communicating science to the general audience, and wrote a couple books for this purpose. In my spare time I also play music, feel free to check out my videos!

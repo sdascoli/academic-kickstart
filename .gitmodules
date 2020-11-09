@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/sdascoli/sdascoli.github.io.git
+	branch = master
