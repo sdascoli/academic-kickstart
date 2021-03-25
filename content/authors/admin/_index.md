@@ -43,6 +43,6 @@ user_groups:
 ---
 Hi! I'm a Ph.D. student working on deep learning, jointly supervised by [Giulio Biroli](https://prairie-institute.fr/chairs/biroli-giulio/) (ENS Paris) and [Levent Sagun](https://scholar.google.com/citations?user=-iPZaBcAAAAJ&hl=en) (FAIR Paris). 
 
-My research seeks to understand the fundamentals of how neural networks learn from data. Before that, I studied Theoretical Physics and worked with NASA on [black hole mergers](https://www.youtube.com/watch?v=i2u-7LMhwvE&t=20s).
+My research seeks to understand and improve the capacity of neural networks to learn from data. Before that, I studied Theoretical Physics and worked with NASA on [black hole mergers](https://www.youtube.com/watch?v=i2u-7LMhwvE&t=20s).
 
 I love communicating science to the general audience, and wrote a couple books for this purpose. In my spare time I also play music, feel free to check out my videos!
