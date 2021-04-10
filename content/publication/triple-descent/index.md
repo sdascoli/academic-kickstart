@@ -1,11 +1,11 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: 'Triple descent and the two kinds of overfitting: Where & why do they appear?'
+title: 'Triple descent and the two kinds of overfitting: where &amp; why do they appear?'
 subtitle: ''
 summary: ''
 authors:
-- Stéphane d'Ascoli
+- Stéphane d' Ascoli
 - Levent Sagun
 - Giulio Biroli
 tags: []
@@ -16,14 +16,14 @@ featured: false
 draft: false
 
 links:
-  - icon_pack: ai
-    icon: arxiv
-    name: ArXiv
-    url: 'https://arxiv.org/pdf/2006.03509.pdf'
-  - icon_pack: 
-    icon: 
-    name: Slides
-    url_pdf: 'slides.pdf'
+- icon_pack: ai
+  icon: arxiv
+  name: ArXiv
+  url: https://arxiv.org/pdf/2006.03509.pdf
+- icon_pack:
+  icon:
+  name: Slides
+  url: slides.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -39,9 +39,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T21:09:05.123274Z'
+publishDate: '2021-04-10T22:50:02.244025Z'
 publication_types:
-- 2
+- 1
 abstract: ''
-publication: '*arXiv preprint arXiv:2006.03509*'
+publication: '*Advances in Neural Information Processing Systems*'
+url_pdf: https://proceedings.neurips.cc/paper/2020/file/1fd09c5f59a8ff35d499c0ee25a1d47e-Paper.pdf
 ---

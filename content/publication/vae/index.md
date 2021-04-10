@@ -17,15 +17,15 @@ lastmod: 2020-09-27T23:09:04+02:00
 featured: false
 draft: false
 
-links :
-  - icon_pack : ai
-    icon : arxiv
-    name : ArXiv
-    url : https://arxiv.org/pdf/1911.03698.pdf
-  - icon_pack : fab
-    icon : github
-    name : Source Code
-    url : https://www.google.com/search?q=automatic+data+generation+snips&oq=automatic+data+generation+snips&aqs=chrome..69i57j69i60l3j69i61j69i65j69i61l2.4245j0j1&sourceid=chrome&ie=UTF-8
+links:
+- icon_pack: ai
+  icon: arxiv
+  name: ArXiv
+  url: https://arxiv.org/pdf/1911.03698.pdf
+- icon_pack: fab
+  icon: github
+  name: Source Code
+  url: https://www.google.com/search?q=automatic+data+generation+snips&oq=automatic+data+generation+snips&aqs=chrome..69i57j69i60l3j69i61j69i65j69i61l2.4245j0j1&sourceid=chrome&ie=UTF-8
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -41,7 +41,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T21:09:04.836839Z'
+publishDate: '2021-04-10T22:50:01.741419Z'
 publication_types:
 - 2
 abstract: ''

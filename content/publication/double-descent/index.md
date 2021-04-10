@@ -19,12 +19,12 @@ lastmod: 2020-09-27T23:09:04+02:00
 featured: false
 draft: false
 
-links :
-  - icon_pack : ai
-    icon : arxiv
-    name : ArXiv
-    url : https://arxiv.org/pdf/1810.09665.pdf
-    
+links:
+- icon_pack: ai
+  icon: arxiv
+  name: ArXiv
+  url: https://arxiv.org/pdf/1810.09665.pdf
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
@@ -39,7 +39,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T21:09:04.436717Z'
+publishDate: '2021-04-10T22:50:00.996785Z'
 publication_types:
 - 2
 abstract: ''

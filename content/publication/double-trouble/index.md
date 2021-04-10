@@ -25,22 +25,22 @@ image:
   preview_only: false
 
 links:
-  - icon_pack: ai
-    icon: arxiv
-    name: ArXiv
-    url: 'https://arxiv.org/abs/2003.01054'
-  - icon_pack: fab
-    icon:
-    name: ICML
-    url: 'https://proceedings.icml.cc/static/paper_files/icml/2020/1589-Paper.pdf'
-  - name: ICML presentation
-    url: 'https://icml.cc/virtual/2020/poster/6013'
-  - name: Slides
-    url_pdf: 'slides.pdf'
-  - icon_pack: fab
-    icon: medium
-    name: Medium
-    url: 'https://medium.com/@LightOnIO/random-projections-did-it-again-23992c61ff84'
+- icon_pack: ai
+  icon: arxiv
+  name: ArXiv
+  url: https://arxiv.org/abs/2003.01054
+- icon_pack: fab
+  icon:
+  name: ICML
+  url: https://proceedings.icml.cc/static/paper_files/icml/2020/1589-Paper.pdf
+- name: ICML presentation
+  url: https://icml.cc/virtual/2020/poster/6013
+- name: Slides
+  url_pdf: slides.pdf
+- icon_pack: fab
+  icon: medium
+  name: Medium
+  url: https://medium.com/@LightOnIO/random-projections-did-it-again-23992c61ff84
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -48,7 +48,7 @@ links:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T21:09:04.968393Z'
+publishDate: '2021-04-10T22:50:02.002494Z'
 publication_types:
 - 1
 abstract: ''

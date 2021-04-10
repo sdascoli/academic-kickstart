@@ -21,13 +21,13 @@ lastmod: 2020-09-27T23:09:04+02:00
 featured: false
 draft: false
 
-links :
-  - icon_pack : ai
-    icon : arxiv
-    name : ArXiv
-    url : https://arxiv.org/pdf/1901.01608.pdf
-  - name : J. Stat. Mech
-    url : https://www.google.com/search?sxsrf=ALeKk02BPLhJqxBvIL7clEukomVMQiWb8A%3A1601280184118&ei=uJhxX-HdBo6_Uqntq8AJ&q=j+stat+mech+scaling+ascoli+geiger&oq=j+stat+mech+scaling+ascoli+geiger&gs_lcp=CgZwc3ktYWIQAzIECAAQRzIECAAQRzIECAAQRzIECAAQRzIECAAQRzIECAAQRzIECAAQRzIECAAQR1CS9AVYlZAGYKaRBmgAcAJ4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXrIAQjAAQE&sclient=psy-ab&ved=0ahUKEwjhmb3EsYvsAhWOnxQKHan2CpgQ4dUDCA0&uact=5
+links:
+- icon_pack: ai
+  icon: arxiv
+  name: ArXiv
+  url: https://arxiv.org/pdf/1901.01608.pdf
+- name: J. Stat. Mech
+  url: https://www.google.com/search?sxsrf=ALeKk02BPLhJqxBvIL7clEukomVMQiWb8A%3A1601280184118&ei=uJhxX-HdBo6_Uqntq8AJ&q=j+stat+mech+scaling+ascoli+geiger&oq=j+stat+mech+scaling+ascoli+geiger&gs_lcp=CgZwc3ktYWIQAzIECAAQRzIECAAQRzIECAAQRzIECAAQRzIECAAQRzIECAAQRzIECAAQRzIECAAQR1CS9AVYlZAGYKaRBmgAcAJ4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXrIAQjAAQE&sclient=psy-ab&ved=0ahUKEwjhmb3EsYvsAhWOnxQKHan2CpgQ4dUDCA0&uact=5
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -43,7 +43,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T21:09:04.572370Z'
+publishDate: '2021-04-10T22:50:01.245058Z'
 publication_types:
 - 2
 abstract: ''

@@ -41,8 +41,8 @@ user_groups:
   - Researchers
   - Visitors
 ---
-Hi! I'm a Ph.D. student working on deep learning, jointly supervised by [Giulio Biroli](https://prairie-institute.fr/chairs/biroli-giulio/) (ENS Paris) and [Levent Sagun](https://scholar.google.com/citations?user=-iPZaBcAAAAJ&hl=en) (FAIR Paris). 
+Hi! I'm a Ph.D. student working on deep learning, jointly supervised by [Giulio Biroli](https://prairie-institute.fr/chairs/biroli-giulio/) (ENS Paris) and [Levent Sagun](https://scholar.google.com/citations?user=-iPZaBcAAAAJ&hl=en) (FAIR Paris). Before that, I studied Theoretical Physics and worked with NASA on [black hole mergers](https://www.youtube.com/watch?v=i2u-7LMhwvE&t=20s).
 
-My research seeks to understand and improve the capacity of neural networks to learn from data. Before that, I studied Theoretical Physics and worked with NASA on [black hole mergers](https://www.youtube.com/watch?v=i2u-7LMhwvE&t=20s).
+My research focuses on understanding how deep neural networks are able to generalize despite being heavily overparametrized. On one hand, I use tools from statistical mechanics to study simple models, and try to understand when and why they overfit. On the other hand, I investigate how different types of inductive biases affect learning, from fully-connected networks to convolutional networks to transformers. I am also interested in bio-inspired alternatives to backpropagation.
 
-I love communicating science to the general audience, and wrote a couple books for this purpose. In my spare time I also play music, feel free to check out my videos!
+I love communicating science to the general audience, and wrote a couple books for this purpose. In my spare time I also play music, feel free to check out my [videos](https://www.youtube.com/channel/UC-5Iuwr1RR3uPGyfdlq6MZQ)!

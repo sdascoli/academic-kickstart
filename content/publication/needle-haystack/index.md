@@ -18,16 +18,16 @@ featured: false
 draft: false
 
 links:
-  - icon_pack: ai
-    icon: arxiv
-    name: ArXiv
-    url: 'https://arxiv.org/abs/2003.01054'
-  - icon_pack: fab
-    icon:
-    name: NeurIPS
-    url: 'https://papers.nips.cc/paper/9131-finding-the-needle-in-the-haystack-with-convolutions-on-the-benefits-of-architectural-bias.pdf'
-  - name: Slides
-    url_pdf: 'slides.pdf'
+- icon_pack: ai
+  icon: arxiv
+  name: ArXiv
+  url: https://arxiv.org/abs/2003.01054
+- icon_pack: fab
+  icon:
+  name: NeurIPS
+  url: https://papers.nips.cc/paper/9131-finding-the-needle-in-the-haystack-with-convolutions-on-the-benefits-of-architectural-bias.pdf
+- name: Slides
+  url_pdf: slides.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -43,7 +43,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T21:09:04.704875Z'
+publishDate: '2021-04-10T22:50:01.502992Z'
 publication_types:
 - 1
 abstract: ''
